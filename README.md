@@ -2,7 +2,7 @@
 
 ### Course modules:
 
-* [Welcome](https://github.com/Steplerchik/ml_foundations/tree/master/week1)
+* [Introduction](https://github.com/Steplerchik/ml_foundations/tree/master/week1)
 * [Regression: Predicting House Prices](https://github.com/Steplerchik/ml_foundations/tree/master/week2)
 * [Classification: Analyzing Sentiment](https://github.com/Steplerchik/ml_foundations/tree/master/week3)
 * [Clustering and Similarity: Retrieving Documents](https://github.com/Steplerchik/ml_foundations/tree/master/week4)
